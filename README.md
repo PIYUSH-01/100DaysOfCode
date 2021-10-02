@@ -1,4 +1,4 @@
-![100 DAYS OF CODE BANNER](banner.png = 600x200)
+![100 DAYS OF CODE BANNER](banner.png | width =600px)
 
 [100 Days of Code](https://www.100daysofcode.com/) is a challenge/community, where you publicly commit to code for the next 100 days.
 
