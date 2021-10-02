@@ -1,8 +1,8 @@
 ![100 DAYS OF CODE BANNER](/PHOTO/banner.png)
 
-100 Days of Code is a challenge/community, where you publicly commit to code for the next 100 days.
+[100 Days of Code](https://www.100daysofcode.com/) is a challenge/community, where you publicly commit to code for the next 100 days.
 
-## <h2> Pre-requisites 
+## Pre-requisites 
 - Eager to learn and want to build a presence on GitHub. 
 - Have at least 30 mins to devote to this challenge for the next 100 days. 
 
