@@ -1,4 +1,4 @@
-<img src="banner.png" width="750" height="250">
+<img src="banner.png" width="800" height="250">
 
 [100 Days of Code](https://www.100daysofcode.com/) is a challenge/community, where you publicly commit to code for the next 100 days.
 
