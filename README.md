@@ -2,7 +2,7 @@
 
 100 Days of Code is a challenge/community, where you publicly commit to code for the next 100 days.
 
-Pre-requisites 
+## <h2> Pre-requisites 
 - Eager to learn and want to build a presence on GitHub. 
 - Have at least 30 mins to devote to this challenge for the next 100 days. 
 
@@ -35,5 +35,3 @@ Contributors
 
 
 Original 100 days of code idea by - Alexander 
-
-# This is an <h1> tag
